@@ -1,4 +1,4 @@
-# badcode
+# badCode
 
 ## Project setup
 ```
