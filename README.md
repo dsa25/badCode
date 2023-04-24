@@ -1,13 +1,6 @@
 # badCode
 
-### github-pages: [badCode](https://dsa25.github.io/badCode/){:target="_blank" rel="noopener"}
-
-
-Live Demo: [demo](https://dsa25.github.io/badCode/){:target="_blank"} //kramdown
-
-Live Demo: [demo](https://dsa25.github.io/badCode/){target="_blank"} //markdown
-
-Live Demo: <a href="https://dsa25.github.io/badCode/" target="_blank">demo</a> //html
+See github-pages: [badCode](https://dsa25.github.io/badCode/)
 
 ## Project setup
 ```
