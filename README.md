@@ -1,6 +1,6 @@
 # badCode
 
-### github-pages: [badCode](https://dsa25.github.io/badCode/)
+### github-pages: [badCode](https://dsa25.github.io/badCode/){:target="_blank" rel="noopener"}
 
 ## Project setup
 ```
