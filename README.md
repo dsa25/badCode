@@ -1,5 +1,7 @@
 # badCode
 
+### github-pages: [badCode](https://dsa25.github.io/badCode/)
+
 ## Project setup
 ```
 npm install
